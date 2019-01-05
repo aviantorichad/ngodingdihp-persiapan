@@ -7,8 +7,8 @@
 
 ## yang dikonfigurasi
 * file .vimrc
-** execute pathogen#infect()
-** syntax on
-** filetype plugin indent on
-** let g:NERDTreeDirArrows=0
-** set number
+..* execute pathogen#infect()
+..* syntax on
+..* filetype plugin indent on
+..* let g:NERDTreeDirArrows=0
+..* set number
