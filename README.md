@@ -1,6 +1,7 @@
 # ngodingdihp-persiapan-vim
 
 ## yang perlu diinstal
+* install tmux : pkg install tmux
 * install pathogen : https://github.com/tpope/vim-pathogen
 * install statusline : https://github.com/itchyny/lightline.vim
 * install nerdtree : https://github.com/scrooloose/nerdtree
